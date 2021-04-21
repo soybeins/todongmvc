@@ -10,5 +10,7 @@ Please install the following npm modules:
 3. **bcrypt**
 4. **nodemon**
 5. **mysql**
-6. **bodyparser**
+6. **body-parser**
 7. **express**
+8. **express-session**
+9. **sequelize**
